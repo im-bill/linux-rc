@@ -1,0 +1,52 @@
+c:\documents and settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\bin\Debug\ctrl_server.exe
+c:\documents and settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\bin\Debug\ctrl_server.pdb
+c:\documents and settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Form1.resources
+c:\documents and settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Properties.Resources.resources
+c:\documents and settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\documents and settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\documents and settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.exe
+c:\documents and settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.pdb
+C:\Documents and Settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.CMDShell.resources
+C:\Documents and Settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Backdoor.resources
+C:\Documents and Settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Upload.resources
+C:\Documents and Settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.DownloadForm.resources
+C:\Documents and Settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.ExplorerForm.resources
+C:\Documents and Settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.FileName.resources
+C:\Documents and Settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Rename.resources
+C:\Documents and Settings\chen\my documents\visual studio 2010\Projects\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.ModifyTime.resources
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.exe
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.pdb
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\bin\Debug\ctrl_server.exe
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\bin\Debug\ctrl_server.pdb
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Backdoor.resources
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.CMDShell.resources
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.DownloadForm.resources
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.ExplorerForm.resources
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Form1.resources
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.ModifyTime.resources
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Properties.Resources.resources
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Rename.resources
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Upload.resources
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.FileName.resources
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\chen\My Documents\ctrl_server\ctrl_server\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.exe
+C:\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.pdb
+C:\ctrl_server\ctrl_server\bin\Debug\ctrl_server.exe
+C:\ctrl_server\ctrl_server\bin\Debug\ctrl_server.pdb
+C:\ctrl_server\ctrl_server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Backdoor.resources
+C:\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.CMDShell.resources
+C:\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.DownloadForm.resources
+C:\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.ExplorerForm.resources
+C:\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Form1.resources
+C:\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.ModifyTime.resources
+C:\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Properties.Resources.resources
+C:\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Rename.resources
+C:\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Shell2.resources
+C:\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.Upload.resources
+C:\ctrl_server\ctrl_server\obj\x86\Debug\ctrl_server.FileName.resources
+C:\ctrl_server\ctrl_server\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\ctrl_server\ctrl_server\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
